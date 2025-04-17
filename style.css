@@ -1,0 +1,52 @@
+
+h1{
+    color:red;
+}
+h3{
+    color: yellow;
+}
+span{
+    background-color: yellow;
+
+}
+.space{
+    letter-spacing: 5px;
+}
+
+.p2
+{
+    color: brown;
+font-size: 60%;
+}
+.p3{
+    color:brown;
+    font-style: italic;
+
+}
+.p1
+{
+    color: brown;
+    font-size: larger;
+}
+a{
+    color:brown;
+    background-color:yellow;
+    text-decoration: none;
+}
+.s1{
+    background-color: yellow;
+}
+.style{
+    font-style: italic;
+    font-size: x-large;
+    color: rgb(56, 201, 56);
+}
+.line{
+    text-decoration-line: underline;
+}
+.space{
+    color: brown;
+}
+.del{
+    display: inline;
+}
